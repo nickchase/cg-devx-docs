@@ -1,4 +1,4 @@
-This project uses [MkDocs](https://www.mkdocs.org/) <!-- Tdst change to figure out combining commits. -->
+This project uses [MkDocs](https://www.mkdocs.org/) <!-- Test change to figure out combining commits. -->
 
 To install MkDocs and required plugins run 
 
